@@ -1,0 +1,14 @@
+var Title = ['T','L','D','R'];
+var TLDR="";
+{Title.map((item)=>(
+  TLDR+=item;
+))}
+
+
+
+>> Too Long, Don't Read.
+
+
+
+
+© Copyright 2024 {TLDR} All Rights Reserved.
